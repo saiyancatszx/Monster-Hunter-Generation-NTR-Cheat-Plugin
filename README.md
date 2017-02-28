@@ -2,7 +2,7 @@
 
 A cheats plugin for NTR CFW - for O3DS and N3DS
 
-Cheats:
+Cheats:-
 
 	1)Super Hunter! Combination of:- 
 		Invinsibility + 
@@ -18,7 +18,7 @@ Cheats:
 		Fast Great Sword Charge + 
 		Affinity 100%
 	2)Player Speed (1.5x,2.0x,2.5x,3.0x):- 
-		Activate with SELECT+R, Deactivate with SELECT+L
+		Activate with SELECT+L, Deactivate with SELECT+R
 	3)Buff Codes
 		Infinite Siege Mode Shot - Not working yet
 		Invinsibility
