@@ -3,6 +3,7 @@
 A cheats plugin for NTR CFW - for O3DS and N3DS
 
 Cheats:
+
 	1)Super Hunter! Combination of:- 
 		Invinsibility + 
 		Item not decrease + 
