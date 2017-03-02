@@ -205,12 +205,11 @@ void	eqNoMaterial(void)
 	WRITEU32(0x0042320C, 0xE3A00001);
 }
 
-void	infiniteSiege(void) //not working
+void	infiniteSiege(void) //working! credit to GreenMonster
 {
-	u32 value = READU32(0x81A44B0); //6 - not equal to
-	if (value != 0)
-	{
-		value = READU32(value);
-		WRITEU8 (0x00002C7E + value, 0x00000063 & 0xFF);
-	}
+    if (READU8(0x81A44B0) != 0)
+    {
+        u32 offset = READU32 (0x81A44B0);
+        WRITEU8(0x2C7E + offset, 0x63);
+    }
 }
