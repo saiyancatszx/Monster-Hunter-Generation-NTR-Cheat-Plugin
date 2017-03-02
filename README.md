@@ -20,7 +20,7 @@ Cheats:-
 	2)Player Speed (1.5x,2.0x,2.5x,3.0x):- 
 		Activate with SELECT+L, Deactivate with SELECT+R
 	3)Buff Codes
-		Infinite Siege Mode Shot - Not working yet
+		Infinite Siege Mode Shot - Working! Credit to GreenMonster
 		Invinsibility
 		Item not decrease
 	4)Item Codes
